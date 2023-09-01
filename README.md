@@ -1,1 +1,2 @@
-# .github
+# C3L
+The Centre for Change and Complexity in Learning (C3L) focuses on the complex relationship between human and artificial cognition, how it changes society, knowledge processes, and teaching and learning. The C3L uses complexity science methodologies, promotes the uptake of applied research and engages with the community, government agencies (healthcare, education, defence, cultural) and industry to research the lifespan of learning and the role of UniSA in serving all stages of knowledge and learning processes.
